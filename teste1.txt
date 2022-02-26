@@ -1,3 +1,4 @@
 Learning Git basics
 Add a new line
 change to commit to branch1
+commit to branch2
