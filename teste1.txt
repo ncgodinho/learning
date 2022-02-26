@@ -1,1 +1,2 @@
 Learning Git basics
+Add a new line
